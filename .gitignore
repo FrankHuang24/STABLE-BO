@@ -1,0 +1,39 @@
+# Python Caches and Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual Environments (非常重要！)
+venv/
+.venv/
+env/
+ENV/
+venv.bak/
+
+# IDE and Editor Configuration Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Experiment Results and Plots
+exp_res_best/
+convergence_plots/
+convergence_plots_v2/
+results/
+plots/
+plot_res/
+
+# OS-specific Files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Other project specific files you mentioned
+Deriving SMK from Stable Distributions.html
+*.pdf
+requirement.txt.bak
